@@ -56,7 +56,7 @@
 <summary><b>📂 Featured Projects</b></summary>
 <br>
 ### 💾 Data Warehousing
-<a href="https://adityasinghrathore.netlify.app/">Aditya Singh</a>
+
 • **<a href="https://github.com/gaddam-shilpa/SQL-E-Commerce-Sales-Performance-Trend-Analysis">E-Commerce Data Warehouse</a>**
 Designed a **star schema data warehouse** to analyze sales, customers, and product performance.
 **Tech:** SQL • Data Modeling • Data Warehousing
