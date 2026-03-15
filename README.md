@@ -23,9 +23,6 @@
 <summary><b>🛠 Tech Stack</b></summary> 
 <br>
 
-**Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,4 +44,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</details>
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+
+![Shilpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaddam-shilpa&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddam-shilpa&layout=compact)
 </details>
