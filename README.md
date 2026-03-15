@@ -54,17 +54,17 @@
 
 <details>
 <summary><b>📂 Featured Projects</b></summary>
-
+<br>
 - 💾 Data Warehousing
 
-• **E-Commerce Data Warehouse** (https://github.com/gaddam-shilpa/SQL-E-Commerce-Sales-Performance-Trend-Analysis)
+- • **E-Commerce Data Warehouse** <a href="https://github.com/gaddam-shilpa/SQL-E-Commerce-Sales-Performance-Trend-Analysis">Link</a>
 Designed a **star schema data warehouse** to analyze sales, customers, and product performance.
-**Tech:** SQL • Data Modeling • Data Warehousing
+- **Tech:** SQL • Data Modeling • Data Warehousing
 
 - ⚙ Data Pipelines
 
-• **Spark ETL Pipeline** ((https://github.com/gaddam-shilpa/ipl-data-pyspark-pipeline))
+- • **Spark ETL Pipeline** <a href="https://github.com/gaddam-shilpa/ipl-data-pyspark-pipeline">Link</a>
 Built an **ETL pipeline using Apache Spark** to process and transform large datasets.
 
-**Tech:** Apache Spark • Python • ETL
+- **Tech:** Apache Spark • Python • ETL
 </details>
