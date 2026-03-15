@@ -57,7 +57,7 @@
 <br>
 ### 💾 Data Warehousing
 
-• **<a href="https://github.com/gaddam-shilpa/SQL-E-Commerce-Sales-Performance-Trend-Analysis">E-Commerce Data Warehouse</a>**
+• **<a href="https://github.com/gaddam-shilpa/SQL-E-Commerce-Sales-Performance-Trend-Analysis">E-Commerce Data Warehouse</a>**<br>
 Designed a **star schema data warehouse** to analyze sales, customers, and product performance.
 **Tech:** SQL • Data Modeling • Data Warehousing
 
