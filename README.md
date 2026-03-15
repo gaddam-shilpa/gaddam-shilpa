@@ -8,3 +8,12 @@
 </p>
 
 
+<div align="left">
+
+**👨🏻‍💻 About Me** <img src="woman_coder_transparent.gif" width="300px" max-width="300px" align="right" style="vertical-align: top;">
+
+✨ Data Engineer <br>
+💼 Building ETL pipelines and processing large-scale data using Python, SQL, and Apache Spark  <br>
+🌱 Learning Apache Spark, Databricks, and Azure.
+
+</div>
