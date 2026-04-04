@@ -44,7 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </details>
 
-<details>
+<!-- <details>
 <summary><b>📊 GitHub Stats</b></summary>
 <br>
 
@@ -52,7 +52,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddam-shilpa&layout=compact)
 </details>
 
-<details>
+<details> -->
 <summary><b>📂 Featured Projects</b></summary>
 
 ### 💾 Data Warehousing
